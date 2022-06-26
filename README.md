@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="intro.gif" alt="" />
+</p>
 ### E ai beleza ? Eu sou Fábio Nunes 👋
 
 <div align="center">
