@@ -14,7 +14,7 @@
   <img align="center" alt="Dev-JQuery" height="30" width="40" src="https://github.com/FabioNunesDEV/FabioNunesDEV/blob/main/Icons/jquery-original.svg">
   <img align="center" alt="Dev-HTML" height="30" width="40" src="https://github.com/FabioNunesDEV/FabioNunesDEV/blob/main/Icons/html5-original.svg">
   <img align="center" alt="Dev-CSS" height="30" width="40" src="https://github.com/FabioNunesDEV/FabioNunesDEV/blob/main/Icons/css3-original.svg">
-  <img align="right" alt="Dev-Gif" height="150" style="border-radius:50px;" src="https://github.com/FabioNunesDEV/FabioNunesDEV/blob/main/Icons/rock-and-roll-ramones.gif">
+ rock-and-roll-ramones.gif
 </div> 
   
 ##
