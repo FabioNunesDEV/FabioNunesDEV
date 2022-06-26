@@ -1,6 +1,6 @@
 ### E ai beleza ? Eu sou Fábio Nunes 👋
 
-<div align="center" style="width:100%;">
+<div align="center" style="width:90%;">
   <a href="https://github.com/FabioNunesDev">
   <img height="180em" with="50em" src="https://github-readme-stats.vercel.app/api?username=FabioNunesDEV&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" with="50em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioNunesDEV&layout=compact&langs_count=7&theme=dracula"/>
