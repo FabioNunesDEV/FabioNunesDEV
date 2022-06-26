@@ -14,11 +14,12 @@
   <img align="center" alt="Dev-JQuery" height="30" width="40" src="https://github.com/FabioNunesDEV/FabioNunesDEV/blob/main/Icons/jquery-original.svg">
   <img align="center" alt="Dev-HTML" height="30" width="40" src="https://github.com/FabioNunesDEV/FabioNunesDEV/blob/main/Icons/html5-original.svg">
   <img align="center" alt="Dev-CSS" height="30" width="40" src="https://github.com/FabioNunesDEV/FabioNunesDEV/blob/main/Icons/css3-original.svg">
-
-
-</div>
+</div> 
   
 ##
+  <div>
+    <a href="https://www.linkedin.com/in/fabio-nunes-206737a2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  </div>
 
 <!--
 **FabioNunesDEV/FabioNunesDEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
