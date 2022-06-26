@@ -14,11 +14,13 @@
   <img align="center" alt="Dev-JQuery" height="30" width="40" src="https://github.com/FabioNunesDEV/FabioNunesDEV/blob/main/Icons/jquery-original.svg">
   <img align="center" alt="Dev-HTML" height="30" width="40" src="https://github.com/FabioNunesDEV/FabioNunesDEV/blob/main/Icons/html5-original.svg">
   <img align="center" alt="Dev-CSS" height="30" width="40" src="https://github.com/FabioNunesDEV/FabioNunesDEV/blob/main/Icons/css3-original.svg">
+  <img align="right" alt="Dev-Gif" height="150" style="border-radius:50px;" src="https://github.com/FabioNunesDEV/FabioNunesDEV/blob/main/Icons/rock-and-roll-ramones.gif">
 </div> 
   
 ##
   <div>
     <a href="https://www.linkedin.com/in/fabio-nunes-206737a2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href = "mailto:fabio.nunes@silo.com.vc"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </div>
 
 <!--
