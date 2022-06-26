@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="intro.gif" alt="" />
-</p>
-
 ### E ai beleza ? Eu sou Fábio Nunes 👋
 
 <div align="center">
@@ -17,7 +13,7 @@
   <img align="center" alt="Dev-JavaScript" height="30" width="40" src="https://github.com/FabioNunesDEV/FabioNunesDEV/blob/main/Icons/javascript-original.svg">
   <img align="center" alt="Dev-JQuery" height="30" width="40" src="https://github.com/FabioNunesDEV/FabioNunesDEV/blob/main/Icons/jquery-original.svg">
   <img align="center" alt="Dev-HTML" height="30" width="40" src="https://github.com/FabioNunesDEV/FabioNunesDEV/blob/main/Icons/html5-original.svg">
-  <img align="right" alt="Dev-RockNRoll" height="150" style="border-radius:50px;" src="https://github.com/pjc0247/gif-for-readme/blob/master/intro.gif">  
+  <img align="right" alt="Dev-RockNRoll" height="150" style="border-radius:50px;" src="intro.gif">  
 
 </div> 
   
