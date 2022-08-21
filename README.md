@@ -16,7 +16,7 @@
   <img align="center" alt="Dev-CSS3" height="30" width="40" src="https://github.com/FabioNunesDEV/FabioNunesDEV/blob/main/Icons/css3-original.svg">
   <img align="center" alt="Dev-JavaScript" height="30" width="40" src="https://github.com/FabioNunesDEV/FabioNunesDEV/blob/main/Icons/javascript-original.svg">
   <img align="center" alt="Dev-JQuery" height="30" width="40" src="https://github.com/FabioNunesDEV/FabioNunesDEV/blob/main/Icons/jquery-original.svg">
-  <img align="center" alt="Dev-DevExpress" height="30" width="40" src="https://github.com/FabioNunesDEV/FabioNunesDEV/blob/main/Icons/devExpress.svg">
+  <img align="center" alt="Dev-DevExpress" height="30" width="40" src="https://github.com/FabioNunesDEV/FabioNunesDEV/blob/main/Icons/devExpress.png">
 
 </div>  
 
